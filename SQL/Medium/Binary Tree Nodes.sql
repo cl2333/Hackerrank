@@ -5,3 +5,5 @@ SELECT N
 	), 'Inner', 'Leaf'))
 FROM BST B
 ORDER BY N;
+
+-- dsd
